@@ -1,0 +1,22 @@
+img {
+  height: auto;
+  width: 500px;
+}
+
+h1 {
+  color: blue;
+}
+
+ul {
+  font-weight: bold;
+}
+
+ol {
+  font-style: italic;
+}
+
+p {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  color: red;
+}
